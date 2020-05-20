@@ -6,10 +6,18 @@ Description: Recursos do Hack: dinheiro ilimitado - simolens ilimitados - xp ili
 Maintainer: DevCorinthiano <myrepo.cydia@gmail.com>
 Author: DevCorinthiano <myrepo.cydia@gmail.com>
 Section: Hacks
-Filename: debs/The Sims Mobile.deb
+Filename: debs/com.devcorinthiano.thesimsmobile.deb
 Size: 1039332
 MD5sum: 88062f992a05a85e46d04b66b8563a79
 
-
-
-
+Package: com.devcorinthiano.CocoaTop
+Version: 2.0.2-1debug
+Architecture: iphoneos-arm
+Maintainer: DevCorinthiano <myrepo.cydia@gmail.com>
+Filename: debs/com.devcorinthiano.cocoatop.deb
+Size: 151514
+MD5sum: c30794b242e73c924db279640dc6eee1
+Section: Tweaks
+Description: Visualizador de Processos da GUI para Iphone
+Author: DevCorinthiano <myrepo.cydia@gmail.com>
+Name: CocoaTop
