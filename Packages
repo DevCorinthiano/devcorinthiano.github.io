@@ -33,3 +33,27 @@ Section: Tweaks
 Description: Data na Barra de Status
 Author: DevCorinthiano <myrepo.cydia@gmail.com>
 Name: Date in StatusBar
+
+Package: com.devcorinthiano.disneyarena
+Name: Disney Sorcerer's Arena Cheats
+Version: 11.1
+Architecture: iphoneos-arm
+Description: Recursos de hack: Sempre ganhe, Mesmo se você perder batalha, obterá a Vitória!!
+Maintainer: DevCorinthiano <myrepo.cydia@gmail.com>
+Author: DevCorinthiano <myrepo.cydia@gmail.com>
+Section: Hacks
+Filename: debs/com.devcorinthiano.disneyarena.deb
+Size: 2365136
+MD5sum: 5754d11d1010ba9a1cc071f8e6067d28
+
+Package: com.devcorinthiano.pccreator
+Name: PC Creator Building Simulator Cheats
+Version: 1.7
+Architecture: iphoneos-arm
+Description: Recursos de hack: - Infinite Cash - Infinite Gem
+Maintainer: DevCorinthiano <myrepo.cydia@gmail.com>
+Author: DevCorinthiano <myrepo.cydia@gmail.com>
+Section: Hacks
+Filename: debs/com.devcorinthiano.pccreator.deb
+Size: 2382240
+MD5sum: 68c075a7ba2e901ab25de2c6a8537b57
