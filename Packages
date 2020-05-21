@@ -1,8 +1,8 @@
 Package: com.devcorinthiano.thesimsmobile
-Name: The Sims Mobile
+Name: The Sims ™ Mobile Cheats
 Version: 2.2.2.2
 Architecture: iphoneos-arm
-Description: Recursos do Hack: dinheiro ilimitado - simolens ilimitados - xp ilimitado -consumíveis ilimitados -ingressosilimitados -energia ilimitada - Tudo ilimitado
+Description: Recursos do Hack: dinheiro ilimitado - simolens ilimitados - xp ilimitado -consumíveis ilimitados -ingressosilimitados -energia ilimitada - Tudo ilimitado !!AVISO Complete o tutorial primeiro ! Destruirá o jogo se não o fizer.!!
 Maintainer: DevCorinthiano <myrepo.cydia@gmail.com>
 Author: DevCorinthiano <myrepo.cydia@gmail.com>
 Section: Hacks
@@ -21,3 +21,15 @@ Section: Tweaks
 Description: Visualizador de Processos da GUI para Iphone
 Author: DevCorinthiano <myrepo.cydia@gmail.com>
 Name: CocoaTop
+
+Package: com.devcorinthiano.dateinstatusbar
+Version: 1.0.1
+Architecture: iphoneos-arm
+Maintainer: DevCorinthiano <myrepo.cydia@gmail.com>
+Filename: deb/com.devcorinthiano.dateinstatusbar.deb
+Size: 3630
+MD5sum: 6ebfc1d74d4f6aaffa2d4930d098eec8
+Section: Tweaks
+Description: Data na Barra de Status
+Author: DevCorinthiano <myrepo.cydia@gmail.com>
+Name: Date in StatusBar
