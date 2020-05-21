@@ -69,3 +69,29 @@ Section: Hacks
 Filename: debs/com.devcorinthiano.evo2.deb
 Size: 2365942
 MD5sum: 8ec3fe0dbdfa809f7d0b394462ffbf19
+
+Package: com.devcorinthiano.familyguy
+Name:  Family Guy The Quest for Stuff Cheats
+Version: 2.4.2
+Architecture: iphoneos-arm
+Description: Recursos de hack: - Free Store → Mostra preço, mas ainda pode comprar- Free Action Skipping
+Maintainer: DevCorinthiano <myrepo.cydia@gmail.com>
+Author: DevCorinthiano <myrepo.cydia@gmail.com>
+Section: Hacks
+Filename: debs/com.devcorinthiano.familyguy.deb
+Size: 2364228
+MD5sum: 05adf63bec3e0bec9d586b82afc89093
+
+Package: com.devcorinthiano.marvel
+Name:  Marvel Contest of Champions Cheats
+Version: 27.0.0
+Architecture: iphoneos-arm
+Description: Recursos de hack:  - Enemy Doesn't
+Attack (trabalhando
+on-line/offline) - Enemy Doesn't Block - No Knockbacks - Desabilita-se/inimigo de ser jogado para trás quando você bate ou é atingido - Sem Knockdowns - Desabilita a si mesmo ou ao inimigo de ser derrubado quando atingido
+Maintainer: DevCorinthiano <myrepo.cydia@gmail.com>
+Author: DevCorinthiano <myrepo.cydia@gmail.com>
+Section: Hacks
+Filename: debs/com.devcorinthiano.marvel.deb
+Size: 2427814
+MD5sum: 09f97577610c572cee4dcff255edd0a3
