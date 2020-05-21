@@ -50,10 +50,22 @@ Package: com.devcorinthiano.pccreator
 Name: PC Creator Building Simulator Cheats
 Version: 1.7
 Architecture: iphoneos-arm
-Description: Recursos de hack: - Infinite Cash - Infinite Gem
+Description: Recursos de hack: - Infinite Cash - Infinite Gem 
 Maintainer: DevCorinthiano <myrepo.cydia@gmail.com>
 Author: DevCorinthiano <myrepo.cydia@gmail.com>
 Section: Hacks
 Filename: debs/com.devcorinthiano.pccreator.deb
 Size: 2382240
 MD5sum: 68c075a7ba2e901ab25de2c6a8537b57
+
+Package: com.devcorinthiano.evo2
+Name:  Evolution 2: Battle for Utopia Cheats
+Version: 1.1.15
+Architecture: iphoneos-arm
+Description: Recursos de hack: - God Mode - Not for boss - Unlimited Consumable- No Consumable Cooldown- No Companion Skill Cooldown
+Maintainer: DevCorinthiano <myrepo.cydia@gmail.com>
+Author: DevCorinthiano <myrepo.cydia@gmail.com>
+Section: Hacks
+Filename: debs/com.devcorinthiano.evo2.deb
+Size: 2365942
+MD5sum: 8ec3fe0dbdfa809f7d0b394462ffbf19
