@@ -95,3 +95,15 @@ Section: Hacks
 Filename: debs/com.devcorinthiano.marvel.deb
 Size: 2427814
 MD5sum: 09f97577610c572cee4dcff255edd0a3
+
+Package: com.devcorinthiano.ipicmycontactsx
+Version: 0.9-7
+Architecture: iphoneos-arm
+Maintainer: DevCorinthiano <myrepo.cydia@gmail.com>
+Filename: debs/com.devcorinthiano.ipicmycontactsx.deb
+Size: 5726
+MD5sum: d158aaa904cf124368ee6054ba568db9
+Section: Tweaks
+Description: Fotos dos Contatos
+Author: DevCorinthiano <myrepo.cydia@gmail.com>
+Name: IPicMyContatsX
