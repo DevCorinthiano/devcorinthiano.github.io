@@ -36,15 +36,15 @@ Name: Date in StatusBar
 
 Package: com.devcorinthiano.disneyarena
 Name: Disney Sorcerer's Arena Cheats
-Version: 11.1
+Version: 11.3
 Architecture: iphoneos-arm
 Description: Recursos de hack: Sempre ganhe, Mesmo se você perder batalha, obterá a Vitória!!
 Maintainer: DevCorinthiano <myrepo.cydia@gmail.com>
 Author: DevCorinthiano <myrepo.cydia@gmail.com>
 Section: Hacks
 Filename: debs/com.devcorinthiano.disneyarena.deb
-Size: 2365136
-MD5sum: 5754d11d1010ba9a1cc071f8e6067d28
+Size: 2385864
+MD5sum: ebf15a958fb66d61ce0e6093c98bf8cd
 
 Package: com.devcorinthiano.pccreator
 Name: PC Creator Building Simulator Cheats
@@ -96,14 +96,51 @@ Filename: debs/com.devcorinthiano.marvel.deb
 Size: 2427814
 MD5sum: 09f97577610c572cee4dcff255edd0a3
 
-Package: com.devcorinthiano.ipicmycontactsx
-Version: 0.9-7
+Package: com.devcorinthiano.dlgmemorinjected
+Version: 11.3.1
 Architecture: iphoneos-arm
 Maintainer: DevCorinthiano <myrepo.cydia@gmail.com>
-Filename: debs/com.devcorinthiano.ipicmycontactsx.deb
-Size: 5726
-MD5sum: d158aaa904cf124368ee6054ba568db9
+Filename: debs/com.devcorinthiano.dlgmemorinjected.deb
+Size: 264240
+MD5sum: dcba144fcc553e98036bf8b0481fd462
 Section: Tweaks
-Description: Fotos dos Contatos
+Description: Alterar Memoria em Apps
 Author: DevCorinthiano <myrepo.cydia@gmail.com>
-Name: IPicMyContatsX
+Name: DLGMemor Injected
+
+Package: com.devcorinthiano.showtouch
+Version: 1.0.3-1
+Architecture: iphoneos-arm
+Maintainer: DevCorinthiano <myrepo.cydia@gmail.com>
+Filename: debs/com.devcorinthiano.showtouch.deb
+Size: 87756
+MD5sum: deba66d8b16d5da0b0e96a667af64bf6
+Section: Tweaks
+Description: Mostra Onde Toca na Tela
+Author: DevCorinthiano <myrepo.cydia@gmail.com>
+Name: ShowTouch
+
+Package: com.devcorinthiano.gamegem
+Version: 1.4b
+Architecture: iphoneos-arm
+Maintainer: DevCorinthiano <myrepo.cydia@gmail.com>
+Filename: debs/com.devcorinthiano.gamegem.deb
+Size: 4009346
+MD5sum: 7dd3762798f98dca0cdba6ac803aa1d9
+Section: Tweaks
+Description: Altera Memoria em Jogos
+Author: DevCorinthiano <myrepo.cydia@gmail.com>
+Name: GameGem
+
+Package: com.devcorinthiano.castlevania
+Name: Castlevania Grimmoire of Souls
+Version: 1.1.3
+Architecture: iphoneos-arm
+Description: Recursos de hack: - One Hit to Kil - Unlimited MP
+Maintainer: DevCorinthiano <myrepo.cydia@gmail.com>
+Author: DevCorinthiano <myrepo.cydia@gmail.com>
+Section: Hacks
+Filename: debs/com.devcorinthiano.castlevania.deb
+Size: 2361762
+MD5sum: a96def052dd310c0f9718e9221df9769
+
